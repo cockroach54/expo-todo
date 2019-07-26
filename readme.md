@@ -11,7 +11,7 @@
 ## start project
 
 - expo init [pj name]
-
+ 
 ## build android
 
 - app.json에 패키지 정보추가
