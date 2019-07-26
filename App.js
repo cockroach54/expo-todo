@@ -34,7 +34,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <StatusBar barStyle="light-content" />
-        <Text style={styles.title}>My Todos</Text>
+        <Text style={styles.title}>Cockroach Todos</Text>
         <View style={styles.card}>
           <TextInput
             style={styles.input}
